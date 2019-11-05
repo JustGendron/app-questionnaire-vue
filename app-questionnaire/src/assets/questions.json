@@ -1,0 +1,62 @@
+[
+	{
+		"enoncer" : "Pète et Répète sont sur un bateau, Pète tombe à l'eau. Qui reste t-il?",
+		"reponses":[ "Pète", "Répète", "..."],
+		"correction" : "Répète"
+	},
+	{
+		"enoncer" : "Pète et Répète sont sur un bateau, Pète tombe à l'eau. Qui reste t-il?",
+		"reponses":[ "Pète", "Répète", "Sérieusement...?"],
+		"correction" : "Répète"
+	},
+	{
+		"enoncer" : "Pète et Répète sont sur un bateau, Pète tombe à l'eau. Qui reste t-il?",
+		"reponses":[ "Pète", "Répète", "Bon, faut arreter maintenant..."],
+		"correction" : "Répète"
+	},
+	{
+		"enoncer" : "C'est qui le plus fort ?",
+		"reponses":[ "BatMan", "Moi", "Séga"],
+		"correction" : "BatMan"
+	},
+	{
+		"enoncer" : "Quand la terre est changée en un cachot humide..",
+		"reponses":[ "..Où l'Espérance, comme une chauve-souris", "..Quand la pluie étalant ses immenses traînées", "..Y a surement une fuite, faut un plombier", "..Au vent des landes de pierres"],
+		"correction" : "..Où l'Espérance, comme une chauve-souris"
+	},
+	{
+		"enoncer" : "Pourquoi est-il aussi méchant ?",
+		"reponses":[ "Parcequeeee !!", "A cause du contexte social défavorable", "Car il est pas gentil", "de blé"],
+		"correction" : "Parcequeeee !!"
+	},
+	{
+		"enoncer" : "Never gonna give you up..",
+		"reponses":[ "Never", "gonna", "let","you","down"],
+		"correction" : "Never"
+	},
+	{
+		"enoncer" : "?",
+		"reponses":[ ",", ";", "!", "&"],
+		"correction" : "!"
+	},
+	{
+		"enoncer" : "Quand Juvabien..",
+		"reponses":[ "Juvamine", "TG !", "Moi ca va pas fort, j'ai un peu mal au ventre"],
+		"correction" : "Juvamine"
+	},
+	{
+		"enoncer" : "Cindy Sander",
+		"reponses":[ "Girl just wanna have fun", "Papillon de lumière", "Libertad"],
+		"correction" : "Papillon de lumière"
+	},
+	{
+		"enoncer" : "Qui a raison ?",
+		"reponses":[ "A est faux", "A est vrai", "B est vrai", "la réponse D"],
+		"correction" : "la réponse D"
+	},
+	{
+		"enoncer" : "La recette du Patriota",
+		"reponses":[ "grenadine, café, vodka, coca", "Menthe, Chocolat, Café, Rhum", "Pétrole, cigüe, sangsue, vitriooool"],
+		"correction" : "Menthe, Chocolat, Café, Rhum"
+	}
+]
