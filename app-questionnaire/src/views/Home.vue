@@ -139,25 +139,38 @@ export default {
 	        grid-row-end: 2;
 	    }
 
-      
+    /* la c'est le rouge */
+
     .rouge{
       color: rgb(230, 0, 0);
     }
+        /* la c'est le orange */
+
     .orange{
       color: rgb(255, 136, 0);
     }
+        /* la c'est le jaune */
+
     .jaune{
       color: #fffb00;
     }
+        /* la c'est le vert */
+
     .vert{
       color: rgb(21, 255, 0);
     }
+        /* la c'est le bleu */
+
     .bleu{
       color: rgb(0, 81, 255);
     }
+        /* la c'est le indigo */
+
     .indigo{
       color: rgb(98, 0, 255);
     }
+        /* la c'est le violet */
+
     .violet{
       color: rgb(255, 0, 221);
     }
