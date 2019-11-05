@@ -35,9 +35,9 @@ export default {
   		questions : {},
   		i:0,
   		form: {
-          firstName: this.$route.params.firstName,
-          name: this.$route.params.name,
-          society: this.$route.params.society,
+          firstName: this.$route.params.jg_first_name,
+          name: this.$route.params.jg_name,
+          society: this.$route.params.jg_society,
   		  score:0,
         },
   	}
